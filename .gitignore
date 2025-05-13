@@ -1,0 +1,10 @@
+# Variáveis de ambiente da plataforma Estudo com IA
+
+
+node_modules/
+.env
+.env.local
+dist/
+build/
+.nyc_output/
+coverage/
